@@ -129,6 +129,10 @@ Running the Project
     
 6.  The LED resumes its normal blinking pattern.
     
+3D Box
+------
+
+Contains a .stl file for a 3D box to hold the button.
 
 Troubleshooting
 ---------------
